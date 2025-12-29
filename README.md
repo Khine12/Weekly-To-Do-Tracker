@@ -38,8 +38,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/khine-zar-hein)
 
 ## 📌 Notes
 
-This project was built as a beginner-friendly web app to practice DOM manipulation, styling, and local storage.  
-Future improvements may include:
-- Task reordering functionality (e.g., drag-and-drop)
-- Persistent syncing across devices
-- User authentication for saving tasks online
+This project was originally built as a beginner-friendly frontend application to practice DOM manipulation, styling, and local storage. 
+It served as the foundation for a later full-stack evolution, where features such as user authentication, cloud-based data storage, and multi-device synchronization were implemented in the upgraded version, **RhythmTasks**.
+
+This early version reflects my learning process and progression from frontend fundamentals to building more complete, production-ready applications.
